@@ -1,0 +1,177 @@
+# Exported by Chalmers Graphics Group
+newmtl Rubber
+Kd 0.117647 0.117647 0.117647
+Ks 0.117 0.117 0.117
+Pm 0
+Ps 1
+Pr 106.796
+Ke 0 0 0
+Tf 0 0 0
+newmtl SpacePlastic
+Kd 0.768627 0.682353 0.72549
+Ks 1 1 1
+Pm 1
+Ps 1
+Pr 674.757
+Ke 0 0 0
+Tf 0 0 0
+newmtl BluePlastic
+Kd 0.196078 0.196078 0.392157
+Ks 0.313726 0.313726 0.313726
+Pm 0
+Ps 0.379
+Pr 800.971
+Ke 0 0 0
+Tf 0 0 0
+newmtl WindowSteel
+Kd 1 1 1
+Ks 1 1 1
+Pm 1
+Ps 1
+Pr 402.913
+Ke 0 0 0
+Tf 0 0 0
+newmtl RedMetal
+Kd 0.588235 0.0392157 0.0392157
+Ks 1 1 1
+Pm 0
+Ps 0.247
+Pr 179.612
+Ke 0 0 0
+Tf 1 1 1
+newmtl WhitePlastic
+Kd 1 0.99999 0.99999
+Ks 0.311 0.311 0.311
+Pm 0
+Ps 1
+Pr 1000
+Ke 0 0 0
+Tf 0 0 0
+newmtl Chrome
+Kd 0.588 0.588 0.588
+Ks 1 1 1
+Pm 0
+Ps 1
+Pr 1000
+Ke 0 0 0
+Tf 0 0 0
+newmtl BlueMetal
+Kd 0.0784314 0.156863 0.313726
+Ks 0.768 0.768 0.768
+Pm 0.773
+Ps 1
+Pr 873.786
+Ke 2.938 2.938 2.938
+Tf 0 0 0
+newmtl Bronze
+Kd 0.588235 0.278431 0.133333
+Ks 0.66 0.66 0.66
+Pm 0.631
+Ps 1
+Pr 776.699
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused001
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl WhiteLight
+Kd 1 1 1
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 10 10 10
+Tf 0 0 0
+newmtl DarkMetal
+Kd 0.122549 0.122548 0.122548
+Ks 0.84 0.84 0.84
+Pm 1
+Ps 1
+Pr 1159.79
+Ke 0 0 0
+Tf 0 0 0
+newmtl RoughMetal
+Kd 0.784314 0.784314 0.980392
+Ks 1 1 1
+Pm 1
+Ps 1
+Pr 97.087
+Ke 0.309 0.309 0.309
+Tf 0 0 0
+newmtl BlackPlastic
+Kd 1e-06 4.70588e-07 4.70588e-07
+Ks 0.263 0.263 0.263
+Pm 0
+Ps 0.5
+Pr 1030.93
+Ke 0 0 0
+Tf 0 0 0
+newmtl MattDiffuse
+Kd 0.0343137 0.0326317 0.0326317
+Ks 0.985 0.985 0.985
+Pm 0.845
+Ps 0.026
+Pr 24742.3
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused005
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused006
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused007
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused008
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused009
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused010
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
+newmtl Unused011
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Pm 0
+Ps 0
+Pr 0
+Ke 0 0 0
+Tf 0 0 0
